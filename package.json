@@ -1,0 +1,14 @@
+{
+  "name": "@proofnova/csv-harmonizer",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "CSV harmonizer",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test test.mjs",
+    "example": "node cli.mjs example.json"
+  }
+}
